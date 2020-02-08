@@ -8,8 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/roryoreilly2/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-62085642-2"
-    anonymize_ip: false # default
+google_analytics: UA-62085642-2 # your Google Analytics tracking ID here
