@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 head_scripts:
-  - /includes/google_analytics.js
+  - /assets/js/google_analytics.js
