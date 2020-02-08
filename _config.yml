@@ -7,6 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/roryoreilly2/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: mmistakes/minimal-mistakes
 head_scripts:
   - /assets/js/google_analytics.js
