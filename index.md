@@ -5,7 +5,7 @@
 ### Personal Projects
 
 [Kaggle - Santa's Little Helper](https://github.com/roryoreilly/kaggle-santa-workshop)
-<img src="images/kaggle-santa.png?raw=true"/>
+<img src="images/kaggle-santa.jpg?raw=true"/>
 This project was from the Kaggle competition https://www.kaggle.com/c/santa-workshop-tour-2019 A number of ideas were tried for this competition. With the best results from using MIP (Mixed-Integer Programming) Solvers. Two solvers that I attemped to use were IBM's CPLEX and Google's OR-Tools.
 
 ---
