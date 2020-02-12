@@ -9,7 +9,7 @@
 This project was from the Kaggle competition <a href="https://www.kaggle.com/c/santa-workshop-tour-2019">Santa's Little Helper</a>
 <br><br> A number of ideas were tried for this competition. With the best results from using MIP (Mixed-Integer Programming) Solvers. Two solvers that I attempted to use were IBM's CPLEX and Google's OR-Tools.
 <br><br>
-<a href="https://github.com/roryoreilly/kaggle-santa-workshop">View</a>
+<a href="https://github.com/roryoreilly/kaggle-santa-workshop">View repo</a>
 
 ---
 
