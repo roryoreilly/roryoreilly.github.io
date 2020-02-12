@@ -7,21 +7,21 @@
 [Kaggle - Santa's Little Helper](https://github.com/roryoreilly/kaggle-santa-workshop)
 <img src="images/kaggle-santa.jpg?raw=true"/>
 This project was from the Kaggle competition <a href="https://www.kaggle.com/c/santa-workshop-tour-2019">Santa's Little Helper</a>
-<br><br> A number of ideas were tried for this competition. With the best results from using MIP (Mixed-Integer Programming) Solvers. Two solvers that I attemped to use were IBM's CPLEX and Google's OR-Tools.
+<br><br> A number of ideas were tried for this competition. With the best results from using MIP (Mixed-Integer Programming) Solvers. Two solvers that I attempted to use were IBM's CPLEX and Google's OR-Tools.
 <br><br>
 <a href="https://github.com/roryoreilly/kaggle-santa-workshop">View</a>
 
 ---
 
-[Kaggle - Kaggle Big Data Bowl](https://github.com/roryoreilly/kaggle-nfl-rushers)
+[Kaggle - Big Data Bowl](https://github.com/roryoreilly/kaggle-nfl-rushers)
 <img src="images/kaggle-nfl.png?raw=true"/>
-The NFL released a competion on Kaggle - <a href="https://www.kaggle.com/c/nfl-big-data-bowl-2020"> Kaggle Big Data Bowl</a>
+The NFL released a competition on Kaggle - <a href="https://www.kaggle.com/c/nfl-big-data-bowl-2020"> Kaggle Big Data Bowl</a>
 <br><br>
-The goal of this competition is to predict the amount of yards a player will gain by rushing the ball.
+The goal of this competition is to predict the number of yards a player will gain by rushing the ball.
 <br><br>
 It was a project that was very interesting to me and great to work on and learn some new things.
 <br><br>
-For this project I featured engineered over 100 different types of stats related to the game and created a neural network to calculate the possible running distance for the rusher.
+For this project, I featured engineered over 100 different types of stats related to the game and created a neural network to calculate the possible running distance for the rusher.
 <br><br>
 <a href="https://github.com/roryoreilly/kaggle-nfl-rushers">View repo</a>
 
